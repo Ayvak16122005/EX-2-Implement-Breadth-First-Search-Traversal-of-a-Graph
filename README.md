@@ -34,7 +34,7 @@ Step 5: If Not Visited, add it to the Queue. Else Continue.
 Step 6: Iterate steps 4 and 5 until all nodes get visited, and there are no more unvisited nodes.
 
 ### Program:
-```
+```python
 def bfs(graph, start):
     visited = []  
     queue = [start]  
@@ -81,6 +81,7 @@ Enter the starting node for BFS: A
 ### Sample Output:
 
 BFS Traversal Order: ['A', 'B', 'C']
-
+<img width="552" height="300" alt="image" src="https://github.com/user-attachments/assets/5facbd37-ddb7-40fa-bc74-c290438f8bdd" />
 
 ### Result:
+Thus the given program was implemented and executed successfully.
